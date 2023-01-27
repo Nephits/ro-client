@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="gbk3212" ?>
+<clientinfo>
+
+        <servicetype>china</servicetype>
+        <servertype>primary</servertype>
+        <extendedslot>2</extendedslot>
+
+        <connection>
+                <display>ro-server</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>192.168.250.180</address>
+                <port>13610</port>
+                <version>45</version>
+                <langtype>3</langtype>
+                <registrationweb>http://192.168.250.180:13600/ro</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+                        <admin>2000001</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+        
+        <connection>
+                <display>ro-server[WAN]</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>kn128.jp</address>
+                <port>13610</port>
+                <version>45</version>
+                <langtype>3</langtype>
+                <registrationweb>http://kn128.jp:13600/ro</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+                        <admin>2000001</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+
+</clientinfo>
